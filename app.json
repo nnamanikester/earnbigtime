@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "earnbigtime",
+    "slug": "earnbigtime",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#6c63ff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.kescript.earnbigtime",
+      "versionCode": 1,
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-9699079901863001~7084741075"
+      }
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
