@@ -1,12 +1,8 @@
 {
   "expo": {
-    "name": "earnbigtime",
-    "slug": "earnbigtime",
-    "platforms": [
-      "ios",
-      "android",
-      "web"
-    ],
+    "name": "JeffEarnBigTime",
+    "slug": "JeffEarnBigTime",
+    "platforms": ["ios", "android", "web"],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -18,18 +14,17 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "android": {
-      "package": "com.kescript.earnbigtime",
+      "package": "com.jeff.earnbigtime",
       "versionCode": 1,
       "config": {
-        "googleMobileAdsAppId": "ca-app-pub-9699079901863001~7084741075"
+        "googleMobileAdsAppId": "ca-app-pub-1565969270023875~1498346247"
       }
     },
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": ""
   }
 }
