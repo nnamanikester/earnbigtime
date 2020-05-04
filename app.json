@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "JeffEarnBigTime",
-    "slug": "JeffEarnBigTime",
+    "name": "KesterEarnBigTime",
+    "slug": "KesterEarnBigTime",
     "platforms": ["ios", "android", "web"],
     "version": "1.0.0",
     "orientation": "portrait",
@@ -16,10 +16,10 @@
     },
     "assetBundlePatterns": ["**/*"],
     "android": {
-      "package": "com.jeff.earnbigtime",
+      "package": "com.kester.earnbigtime",
       "versionCode": 1,
       "config": {
-        "googleMobileAdsAppId": "ca-app-pub-1565969270023875~1498346247"
+        "googleMobileAdsAppId": "ca-app-pub-2903800103454363~7391856669"
       }
     },
     "ios": {
