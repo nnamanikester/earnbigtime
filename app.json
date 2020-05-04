@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "FestaEarnBigTime",
-    "slug": "FestaEarnBigTime",
+    "name": "NobbsEarnBigTime",
+    "slug": "NobbsEarnBigTime",
     "platforms": ["ios", "android", "web"],
     "version": "1.0.0",
     "orientation": "portrait",
@@ -16,10 +16,10 @@
     },
     "assetBundlePatterns": ["**/*"],
     "android": {
-      "package": "com.festa.earnbigtime",
+      "package": "com.Nobbs.earnbigtime",
       "versionCode": 1,
       "config": {
-        "googleMobileAdsAppId": "ca-app-pub-4128130523178083~1135717307"
+        "googleMobileAdsAppId": "ca-app-pub-6026195991662344~7507514536"
       }
     },
     "ios": {
