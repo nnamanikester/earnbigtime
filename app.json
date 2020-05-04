@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "KesterEarnBigTime",
-    "slug": "KesterEarnBigTime",
+    "name": "FestaEarnBigTime",
+    "slug": "FestaEarnBigTime",
     "platforms": ["ios", "android", "web"],
     "version": "1.0.0",
     "orientation": "portrait",
@@ -16,10 +16,10 @@
     },
     "assetBundlePatterns": ["**/*"],
     "android": {
-      "package": "com.kester.earnbigtime",
+      "package": "com.festa.earnbigtime",
       "versionCode": 1,
       "config": {
-        "googleMobileAdsAppId": "ca-app-pub-2903800103454363~7391856669"
+        "googleMobileAdsAppId": "ca-app-pub-4128130523178083~1135717307"
       }
     },
     "ios": {
