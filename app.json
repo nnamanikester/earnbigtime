@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "NobbsEarnBigTime",
-    "slug": "NobbsEarnBigTime",
+    "name": "GameHubEarnBigTime",
+    "slug": "GameHubEarnBigTime",
     "platforms": ["ios", "android", "web"],
     "version": "1.0.0",
     "orientation": "portrait",
@@ -16,10 +16,10 @@
     },
     "assetBundlePatterns": ["**/*"],
     "android": {
-      "package": "com.Nobbs.earnbigtime",
+      "package": "com.GameHub.earnbigtime",
       "versionCode": 1,
       "config": {
-        "googleMobileAdsAppId": "ca-app-pub-6026195991662344~7507514536"
+        "googleMobileAdsAppId": "ca-app-pub-7678502828694605~6285662705"
       }
     },
     "ios": {
