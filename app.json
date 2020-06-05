@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "GameHubEarnBigTime",
-    "slug": "GameHubEarnBigTime",
+    "name": "Revolution",
+    "slug": "Revolution",
     "platforms": ["ios", "android", "web"],
     "version": "1.0.0",
     "orientation": "portrait",
@@ -16,10 +16,10 @@
     },
     "assetBundlePatterns": ["**/*"],
     "android": {
-      "package": "com.GameHub.earnbigtime",
+      "package": "com.revolution.earnbigtime",
       "versionCode": 1,
       "config": {
-        "googleMobileAdsAppId": "ca-app-pub-7678502828694605~6285662705"
+        "googleMobileAdsAppId": "ca-app-pub-9738284521499659~2136400218"
       }
     },
     "ios": {

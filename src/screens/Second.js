@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { View, Button } from "react-native";
 import { AdMobBanner, AdMobInterstitial } from "expo-ads-admob";
 
-AdMobInterstitial.setAdUnitID("ca-app-pub-7678502828694605/1136729064");
+AdMobInterstitial.setAdUnitID("ca-app-pub-9738284521499659/2751817199");
 
 export default class SecondScreen extends Component {
   state = {
@@ -36,13 +36,13 @@ export default class SecondScreen extends Component {
         <View style={{ marginBottom: 20 }}>
           <AdMobBanner
             bannerSize="banner"
-            adUnitID="ca-app-pub-7678502828694605/6089866360"
+            adUnitID="ca-app-pub-9738284521499659/1649315057"
           />
         </View>
         <View style={{ marginBottom: 20 }}>
           <AdMobBanner
             bannerSize="fullBanner"
-            adUnitID="ca-app-pub-7678502828694605/6089866360"
+            adUnitID="ca-app-pub-9738284521499659/1649315057"
           />
         </View>
         <Button
@@ -54,7 +54,7 @@ export default class SecondScreen extends Component {
         <View style={{ marginTop: 20 }}>
           <AdMobBanner
             bannerSize="leaderboard"
-            adUnitID="ca-app-pub-7678502828694605/6089866360"
+            adUnitID="ca-app-pub-9738284521499659/1649315057"
           />
         </View>
       </View>
