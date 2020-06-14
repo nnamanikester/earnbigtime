@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Revolution",
-    "slug": "Revolution",
+    "name": "Paymax",
+    "slug": "Paymax",
     "platforms": ["ios", "android", "web"],
     "version": "1.0.0",
     "orientation": "portrait",
@@ -16,10 +16,10 @@
     },
     "assetBundlePatterns": ["**/*"],
     "android": {
-      "package": "com.revolution.earnbigtime",
+      "package": "com.Paymax.earnbigtime",
       "versionCode": 1,
       "config": {
-        "googleMobileAdsAppId": "ca-app-pub-9738284521499659~2136400218"
+        "googleMobileAdsAppId": "ca-app-pub-4482265644815482~5338392013"
       }
     },
     "ios": {
